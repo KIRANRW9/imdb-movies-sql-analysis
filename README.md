@@ -16,7 +16,7 @@ This project demonstrates SQL skills through comprehensive analysis of IMDB's to
 imdb-movies-analysis/
 ├── README.md
 ├── data/
-│   ├── imdb_topp_1000.csv
+│   ├── imdb_top_1000.csv
 │   └── data_dictionary.md
 ├── sql/
 │   ├── 01_database_setup.sql
@@ -130,3 +130,27 @@ ORDER BY avg_rating DESC;
 This project demonstrates my analytical skills and SQL proficiency for data analyst positions. Feel free to explore the code and findings!
 
 ---
+
+
+## 👨‍💻 About the Developer
+
+**Kiran Rangu** - *AI & Data Science Graduate*
+- 🎓 Specialized in Business Intelligence and Advanced Analytics
+- 💼 Passionate about transforming data into actionable business insights
+- 🚀 Building scalable analytics solutions for e-commerce optimization
+
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kiranrangu)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/KIRANRW9)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:kiranrw09@gmail.com)
+
+---
+
+## 📞 Contact & Support
+
+For questions, suggestions, or collaboration opportunities:
+- 📧 **Email**: kiranrw09@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/kiran-rangu](https://www.linkedin.com/in/kiranrangu)
+
+---
+
