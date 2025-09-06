@@ -1,0 +1,6 @@
+runtime_category,movie_count,avg_rating,avg_runtime,min_runtime,max_runtime
+"Epic (180+ min)",40,8.11,202,181,321
+"Very Long (151-180 min)",107,8.09,162,151,180
+"Long (121-150 min)",330,7.97,133,121,150
+"Short (< 90 min)",68,7.94,82,45,89
+"Standard (90-120 min)",455,7.89,106,90,120

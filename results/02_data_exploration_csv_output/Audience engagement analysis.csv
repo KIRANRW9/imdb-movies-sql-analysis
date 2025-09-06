@@ -1,0 +1,6 @@
+popularity_level,movie_count,avg_rating,avg_votes,min_votes,max_votes
+"Highly Popular (1M+ votes)",42,8.53,"1,356,828","1,000,639","2,343,110"
+"Popular (500K+ votes)",141,8.07,"688,351","500,799","999,790"
+"Moderate Following (100K+ votes)",232,7.90,"164,796","101,053","247,666"
+"Well-Known (250K+ votes)",163,7.90,"361,733","250,057","499,439"
+"Limited Following",422,7.90,"53,207","25,088","99,643"

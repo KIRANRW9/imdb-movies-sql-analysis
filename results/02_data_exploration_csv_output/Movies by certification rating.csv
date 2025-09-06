@@ -1,0 +1,11 @@
+certificate,movie_count,avg_rating,avg_revenue_millions
+Passed,34,8.02,5
+A,197,8.00,64
+G,12,8.00,50
+U,234,7.98,87
+UA,175,7.96,131
+Approved,11,7.95,7
+"Not Rated",101,7.93,4
+PG,37,7.93,18
+R,146,7.87,26
+PG-13,43,7.80,37
