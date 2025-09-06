@@ -1,0 +1,5 @@
+metacritic_category,movie_count,avg_imdb_rating,avg_metacritic_score,avg_revenue_millions
+"Universal Acclaim (80+)",409,7.99,88,72
+"Generally Favorable (60-79)",370,7.88,71,80
+"Mixed Reviews (40-59)",60,7.83,53,64
+"Unfavorable (Below 40)",4,7.73,32,42

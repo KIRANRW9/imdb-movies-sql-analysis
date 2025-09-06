@@ -1,0 +1,21 @@
+actor,movie_appearances,avg_rating,excellent_movies,avg_votes,avg_revenue_millions
+"Orlando Bloom",4,8.60,4,"1,451,229",335
+"Marlon Brando",4,8.43,4,"617,014",59
+"Charles Chaplin",6,8.33,6,"138,907",2
+"Kevin Spacey",5,8.30,4,"874,632",65
+"Takashi Shimura",4,8.30,4,"145,864",0
+"Carrie Fisher",4,8.30,3,"884,230",254
+"Henry Fonda",4,8.28,3,"276,475",32
+"Paresh Rawal",4,8.28,4,"51,809",3
+"Robert Duvall",4,8.28,3,"513,225",61
+"Harrison Ford",8,8.26,7,"792,634",210
+"Viggo Mortensen",5,8.26,3,"784,671",166
+"Tatsuya Nakadai",6,8.25,6,"60,892",4
+"Aamir Khan",8,8.24,8,"145,745",5
+"Toshiro Mifune",7,8.24,7,"104,062",0
+"Diane Keaton",6,8.23,3,"588,237",69
+"Amitabh Bachchan",4,8.23,4,"38,532",1
+"Ian McKellen",7,8.21,3,"1,009,054",267
+"Uma Thurman",4,8.20,3,"947,893",64
+"Ben Kingsley",4,8.20,3,"715,147",75
+"Morgan Freeman",7,8.19,4,"781,858",57
