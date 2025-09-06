@@ -127,4 +127,3 @@ ORDER BY avg_rating DESC;
 This project demonstrates my analytical skills and SQL proficiency for data analyst positions. Feel free to explore the code and findings!
 
 ---
-*Created as part of my data analyst portfolio to showcase SQL skills and business analytical thinking.*
