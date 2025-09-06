@@ -1,0 +1,11 @@
+rank_position,Series_Title,Released_Year,IMDB_Rating,Director,box_office,audience_votes
+1,"The Shawshank Redemption",1994,9.3,"Frank Darabont",$28M,"2,343,110"
+2,"The Godfather",1972,9.2,"Francis Ford Coppola",$135M,"1,620,367"
+3,"The Dark Knight",2008,9.0,"Christopher Nolan",$535M,"2,303,232"
+4,"The Godfather: Part II",1974,9.0,"Francis Ford Coppola",$57M,"1,129,952"
+5,"12 Angry Men",1957,9.0,"Sidney Lumet",$4M,"689,845"
+6,"Pulp Fiction",1994,8.9,"Quentin Tarantino",$108M,"1,826,188"
+7,"The Lord of the Rings: The Return of the King",2003,8.9,"Peter Jackson",$378M,"1,642,758"
+8,"Schindler's List",1993,8.9,"Steven Spielberg",$97M,"1,213,505"
+9,Inception,2010,8.8,"Christopher Nolan",$293M,"2,067,042"
+10,"Fight Club",1999,8.8,"David Fincher",$37M,"1,854,740"

@@ -1,0 +1,7 @@
+metric_category,metric_name,value,insight
+"DATASET OVERVIEW","Total Movies Analyzed",1000.00,"Complete dataset coverage"
+"QUALITY METRICS","Average Rating",7.95,"High-quality selection (Top 1000)"
+ENGAGEMENT,"Total Audience Votes (Millions)",274.00,"Strong audience engagement"
+"REVENUE DATA","Movies with Box Office Data (%)",83.00,"Good revenue coverage for analysis"
+"TIME SPAN","Years Covered",101.00,"Century of cinema represented"
+"CONTENT DIVERSITY","Unique Directors",548.00,"Diverse creative voices"

@@ -1,0 +1,7 @@
+report_type,field_name,completeness_percentage,data_quality_status
+"DATA COMPLETENESS REPORT","Movie Titles",100%,Excellent
+"DATA COMPLETENESS REPORT","IMDB Ratings",100%,Excellent
+"DATA COMPLETENESS REPORT","Release Years",100%,Excellent
+"DATA COMPLETENESS REPORT",Directors,100%,Excellent
+"DATA COMPLETENESS REPORT","Box Office Data",83%,Good
+"DATA COMPLETENESS REPORT","Metacritic Scores",84%,"Acceptable for trend analysis"

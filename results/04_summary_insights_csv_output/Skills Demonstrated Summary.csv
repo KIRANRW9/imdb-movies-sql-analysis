@@ -1,0 +1,7 @@
+project_element,skill_category,techniques_used,business_value
+"SQL SKILLS SHOWCASE","Data Exploration","SELECT, WHERE, GROUP BY, ORDER BY, aggregations","Dataset understanding and quality assessment"
+"SQL SKILLS SHOWCASE","Advanced Analysis","CASE statements, subqueries, CTEs, window functions","Complex business insights and trend analysis"
+"SQL SKILLS SHOWCASE","String Processing","LIKE, string functions, pattern matching","Genre analysis and text data handling"
+"SQL SKILLS SHOWCASE","Business Intelligence","KPI calculations, executive dashboards","Strategic decision support and reporting"
+"SQL SKILLS SHOWCASE","Data Quality","NULL handling, data validation, completeness checks","Reliable analysis foundation"
+"SQL SKILLS SHOWCASE","Temporal Analysis","Date functions, trend identification, decade grouping","Historical insights and pattern recognition"

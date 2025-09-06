@@ -1,0 +1,9 @@
+category,name,movies_in_top1000,avg_rating,masterpieces,avg_revenue_millions
+"TOP DIRECTORS","Christopher Nolan",8,8.46,4,242
+"TOP DIRECTORS","Francis Ford Coppola",5,8.40,2,69
+"TOP DIRECTORS","Peter Jackson",5,8.40,3,319
+"TOP DIRECTORS","Charles Chaplin",6,8.33,2,2
+"TOP DIRECTORS","Sergio Leone",6,8.27,2,8
+"TOP DIRECTORS","Stanley Kubrick",9,8.23,0,31
+"TOP DIRECTORS","Akira Kurosawa",10,8.22,1,1
+"TOP DIRECTORS","Frank Capra",4,8.20,1,7

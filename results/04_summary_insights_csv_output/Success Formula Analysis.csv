@@ -1,0 +1,5 @@
+insight_category,pattern_type,finding,business_implication
+"SUCCESS PATTERNS","Optimal Runtime","Movies 120-150 minutes show highest ratings (avg 7.96)","Target 2-2.5 hour runtime for quality perception"
+"SUCCESS PATTERNS","Genre Strategy","Drama leads in both volume (724 films) and avg quality (7.96)","Drama genre offers best risk-reward balance"
+"SUCCESS PATTERNS","Rating Sweet Spot","463 movies (46%) achieve 8.0+ rating","Target 8.0+ rating for lasting cultural impact"
+"SUCCESS PATTERNS","Audience Engagement","High vote counts correlate with lasting popularity","Build audience engagement for long-term success"
