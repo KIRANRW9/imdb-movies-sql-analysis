@@ -16,7 +16,7 @@ This project demonstrates SQL skills through comprehensive analysis of IMDB's to
 imdb-movies-analysis/
 ├── README.md
 ├── data/
-│   ├── sample_data.csv (first 10 rows)
+│   ├── imdb_top_1000.csv
 │   └── data_dictionary.md
 ├── sql/
 │   ├── 01_database_setup.sql
