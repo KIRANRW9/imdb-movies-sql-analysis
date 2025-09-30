@@ -3,9 +3,7 @@
 
 <div align="center">
 
-![Project Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql)
-![Business Impact](https://img.shields.io/badge/Business%20Impact-High-red?style=for-the-badge)
 
 **🎯 Solving Real Business Problems: Which movies should Netflix acquire? Where should studios invest $100M?**
 
